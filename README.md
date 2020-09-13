@@ -1,2 +1,3 @@
-# dice-roller-with-button-app-solution
- Application created in Google's Android Basic With Kotlin course
+# Dice-Roller
+ 
+Code for the Android Basics in Kotlin: Create an interactive Dice Roller app codelab. Starter code for the Android Basics in Kotlin. 🎲
